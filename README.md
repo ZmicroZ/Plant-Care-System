@@ -8,7 +8,7 @@ This project utilizes a PIC18F4580 microcontroller to read analog data from a mo
 - ESP32 Module
 - Moisture Sensor
 - LEDs
-- Pump
+- Pumps
 
 ## Configuration
 The PIC18F4580 is configured to read the analog values from the moisture sensor using ADC. It then converts these values to a voltage percentage representation of the moisture levels. The UART communication is set up at a baud rate of 9600.
